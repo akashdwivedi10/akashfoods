@@ -1,0 +1,10 @@
+.res-img{
+    height: 300px;
+    width: 180px;
+    margin: auto;
+    justify-self: center;
+    align-items: center;
+}
+.cd-head{
+    color: red;
+}

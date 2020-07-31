@@ -1,0 +1,15 @@
+.veg-img{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+.veg-text{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.veg-head{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
